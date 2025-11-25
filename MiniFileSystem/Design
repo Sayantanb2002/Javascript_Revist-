@@ -1,0 +1,6 @@
+A tiny in-memory file system like Linux/Unix:
+* create file
+* write/read/delete
+* navigate directories
+* show tree
+* support async disk operations(simulated)
